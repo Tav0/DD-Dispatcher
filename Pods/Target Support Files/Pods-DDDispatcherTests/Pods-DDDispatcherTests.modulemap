@@ -1,0 +1,6 @@
+framework module Pods_DDDispatcherTests {
+  umbrella header "Pods-DDDispatcherTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
